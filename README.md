@@ -10,7 +10,7 @@
 <p align="left"> <a href="https://twitter.com/karandevhub" target="blank"><img src="https://img.shields.io/twitter/follow/karandevhub?logo=twitter&style=for-the-badge" alt="karankumar"  </p>
 
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **ML**
 
 - 💬 Ask me about **Android , MERN**
 
