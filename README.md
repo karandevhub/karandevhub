@@ -1,44 +1,44 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+<div align="center">
+  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="MasterHead" width="100%">
+</div>
 
 <h1 align="center">Hi there, I'm Karan 👋</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=karandevhub&label=Profile%20views&color=0e75b6&style=flat" alt="karandevhub" /> 
 </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/karandevhub" target="blank">
+<p align="center"> 
+  <a href="https://twitter.com/karandevhub" target="_blank">
     <img src="https://img.shields.io/twitter/follow/karandevhub?logo=twitter&style=for-the-badge" alt="karandevhub" />
   </a>
 </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+<p align="center">🌱 I’m currently learning **Machine Learning**</p>
 
-- 💬 Ask me about **Android, MERN Stack**
+<p align="center">💬 Ask me about **Android, MERN Stack**</p>
 
-- 📫 How to reach me: **karanmahatocse@gmail.com**
+<p align="center">📫 How to reach me: **karanmahatocse@gmail.com**</p>
 
-- ⚡ Fun fact: **I am Funny**
+<p align="center">⚡ Fun fact: **I am Funny**</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karandevhub" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/itskaran/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itskaran" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/justsaykaran" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justsaykaran" height="30" width="40" />
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karandevhub" height="40" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/itskaran/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itskaran" height="40" style="vertical-align:top; margin:4px">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/justsaykaran" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justsaykaran" height="40" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
@@ -62,8 +62,12 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karandevhub&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="karandevhub" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karandevhub&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="karandevhub" width="45%">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=karandevhub&show_icons=true&locale=en&theme=tokyonight" alt="karandevhub" width="45%">
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karandevhub&show_icons=true&locale=en&theme=tokyonight" alt="karandevhub" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karandevhub&&theme=tokyonight" alt="karandevhub" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karandevhub&&theme=tokyonight" alt="karandevhub" width="90%">
+</div>
