@@ -54,5 +54,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karandevhub&show_icons=true&locale=en&theme=tokyonight" alt="karandevhub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karandevhub&&theme=tokyonight" alt="karandevhub" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=karandevhub&hide_border=true" alt="GitHub Streak" /></a>
 
 
