@@ -49,9 +49,6 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karandevhub&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="karandevhub" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karandevhub&show_icons=true&locale=en&theme=tokyonight" alt="karandevhub" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karandevhub&&theme=tokyonight" alt="karandevhub" /></p>
 
