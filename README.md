@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=karandevhub&label=Profile%20views&color=0e75b6&style=flat" alt="karandevhub" />
 </p>
 
-<p align="left">
+<p align="left" style="margin-right: 25px">
   <a href="https://x.com/KaranKumar37664" target="blank">
     <img src="https://img.shields.io/twitter/follow/KaranKumar37664?logo=twitter&style=for-the-badge" alt="karankumar" />
   </a>
