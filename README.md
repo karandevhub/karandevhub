@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
 <p align="left">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="300" align="right" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="Coding" width="300" align="right" />
 </p>
 
 <p align="left">
@@ -31,7 +31,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30" margin="10" style="margin-right: 100px; background-color: white" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="30" height="30" style="margin-right: 100px; background-color: white" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" style="margin-right: 15px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" style="margin-right: 15px"/>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30" style="margin-right: 15px"/>
