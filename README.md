@@ -34,7 +34,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-    <img src="https://vectorwiki.com/images/ScXaS__prisma.svg" alt="prisma" width="50" height="70"/>
+    <img src="https://vectorwiki.com/images/ScXaS__prisma.svg" alt="prisma" width="70" height="70"/>
     <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="electronjs" width="40" height="40"/>
 </p>
 
