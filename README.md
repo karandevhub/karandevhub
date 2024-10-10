@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FullStack Developer from India</h3>
 
 <p align="left">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="200" align="right" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="300" align="right" />
 </p>
 
 <p align="left">
