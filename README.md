@@ -8,13 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/karandevhub" target="blank"><img src="https://img.shields.io/twitter/follow/karandevhub?logo=twitter&style=for-the-badge" alt="karankumar"  </p>
 
-- 🌱 I’m currently learning **ML**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Android , MERN**
 
 - 📫 How to reach me **karanmahatocse@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
