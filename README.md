@@ -49,4 +49,6 @@
 </p>
 
 <h3 align="center">GitHub Streak:</h3>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karandevhub&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=karandevhub" alt="GitHub Streak" />
+</a>
