@@ -48,7 +48,4 @@
   <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="electronjs" width="30" height="30" style="margin-right: 15px"/>
 </p>
 
-<h3 align="center">GitHub Streak:</h3>
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=karandevhub" alt="GitHub Streak" />
-</a>
+
