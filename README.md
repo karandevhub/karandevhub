@@ -15,8 +15,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **DevOps**  
-- 💬 Ask me about **Android, MERN**  
+- 💬 Ask me about **Android, MERN, Generative AI**  
 - 📫 How to reach me: **karanmahatocse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
