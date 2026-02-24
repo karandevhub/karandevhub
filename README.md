@@ -40,7 +40,6 @@
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="30" height="30" style="margin-right: 15px"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30" style="margin-right: 15px"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" style="margin-right: 15px"/>
-  <img src="https://vectorwiki.com/images/YIi1Q__postgresql.svg" alt="postgresql" width="30" height="30" style="margin-right: 15px"/>
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="30" height="30" style="margin-right: 15px"/>
   <img src="https://vectorwiki.com/images/ScXaS__prisma.svg" alt="prisma" width="40" height="40" style="margin-right: 15px"/>
   <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="electronjs" width="30" height="30" style="margin-right: 15px"/>
