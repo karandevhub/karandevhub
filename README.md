@@ -1,19 +1,29 @@
-<h1 align="center">Hi 👋, I'm Karan</h1>
+### Hello world, I'm Karan  👋 
 
-<p align="left">
-  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" alt="Coding" width="400" align="right" />
+-----
+
+<p align="center">
+ 
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=karandevhub&label=Profile%20views&color=0e75b6&style=flat" alt="karandevhub" />
-</p>
+-----
 
-<p align="left" style="margin-right: 25px">
-  <a href="https://x.com/KaranKumar37664" target="blank">
-    <img src="https://img.shields.io/twitter/follow/KaranKumar37664?logo=twitter&style=for-the-badge" alt="karankumar" />
-  </a>
-</p>
+![profile count](https://komarev.com/ghpvc/?username=karandevhub&color=red)&nbsp;
+[![GitHub karandevhub](https://img.shields.io/github/followers/karandevhub?label=follow&style=social)](https://github.com/karandevhub)&nbsp;
+### 👨🏻‍💻 &nbsp;About Me
 
-- 💬 Ask me about **Android, MERN, Generative AI**  
-- 📫 How to reach me: **karanmahatocse@gmail.com**
+🚀 &nbsp; **Full Stack & AI Engineer** — I build scalable web, mobile, and AI systems that go from idea to production.\
+⚡ &nbsp; **React Native · Next.js · Node.js · LangChain · RAG · Agentic AI** — clean architecture, real-world deployment.\
+💬 &nbsp; Feel free to reach out for collaborations, just a good tech conversation!
+
+-----
+ 
+### 📫 &nbsp; How to reach me:
+ 
+<a href="https://www.linkedin.com/in/itskaran/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:karanmahatocse@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://x.com/KaranKumar37664"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>&nbsp;
+
 
